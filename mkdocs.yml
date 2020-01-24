@@ -1,0 +1,55 @@
+# Project information
+site_name: Mkdocs Material PWA
+site_description: An example Mkdocs PWA 
+site_author: russell.t.adams@gmail.com
+
+#google_analytics:
+#  - 'UA-XXXXXXXX-X'
+#  - 'auto'
+
+# Github repo links, replace this with your repo and url
+repo_name: '/russelltadams/mkdocs-material-pwa-zeit.co'
+repo_url: 'https://github.com/russelltadams/mkdocs-material-pwa-zeit.co'
+
+# Navigation example, with optional tabs heiarchy turn on
+nav:
+  - Home: 'index.md'  
+  - Foos:
+    - Foo: 'foos/index.md'
+    - Fu: 'foos/fu.md'
+  - Bars:
+    - Bar: 'bars/index.md'
+    - Bab: 'bars/bab.md'
+    - Babar: 'bars/babar/index.md'
+      
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  feature:
+    tabs: true
+
+# Extensions
+markdown_extensions:
+    - admonition
+    - codehilite:
+        guess_lang: false
+    - toc:
+        permalink: true
+
+# Customization
+extra:
+  manifest: 'manifest.json'
+  social:
+    - type: 'github'
+      link: 'https://github.com/russelltadams'
+
+# Bits to register the service worker      
+extra_javascript:
+  - 'javascripts/rsw.js'
