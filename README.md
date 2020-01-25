@@ -3,7 +3,7 @@ An MkDocs-Material project with a PWA, ready for deployment with ZEIT Now
 
 ## What's the point?
 
-Read [here]() for some background what this is and why you might want to do it if you are not already familiar with the parts of this little stack.
+Read [here](https://github.com/russelltadams/mkdocs-material-pwa-zeit.co/blob/master/docs/index.md) for some background what this is and why you might want to do it if you are not already familiar with the parts of this little stack.
 
 ## Setup
 
