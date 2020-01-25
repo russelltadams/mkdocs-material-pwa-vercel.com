@@ -44,5 +44,5 @@ Further documentation can be found in the repo [README.md](https://github.com/ru
 ## Credits
 
 Some credit must go to [stavfx](https://github.com/stavfx) for encouraging me to check out PWA as possible solution for my idea, and for taking the time to listen to it.  
-Some inspiration was derived [](https://github.com/Snickdx/pwadocs/) which didn't quite work for me but gave me a few hints on my way.  
+Some inspiration was derived [Snickdx/pwadocs](https://github.com/Snickdx/pwadocs/) which didn't quite work for me but gave me a few hints on my way.  
 
