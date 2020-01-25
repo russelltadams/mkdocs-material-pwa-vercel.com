@@ -1,23 +1,28 @@
 {
-  "name" : "Selfedelics",
-  "short_name" : "Selfedelics",
-  "description" : "Do it yourself psychedelics",
+  "name" : "Mkdocs Material PWA ",
+  "short_name" : "Mkdocs",
+  "description" : "Mkdocs Material with PWA",
   "start_url" : "index.html",
   "scope" : "/",
   "display" : "standalone",
   "orientation" : "portrait",
   "lang" : "English",
   "icons" : [
-    {
-      "src" : "/assets/icons/self-512.png",
-      "type" : "image/png",
-      "sizes" : "512x512"
-    },
-    {
-      "src" : "/assets/icons/self-192.png",
-      "type" : "image/png",
-      "sizes" : "192x192"
-    }
+      {
+        "src": "assets/icons/logo-36.png",
+        "sizes": "36x36",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/icons/logo-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/icons/logo-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
   ],
   "background_color": "#3f51b5",
   "theme_color": "#3f51b5"
