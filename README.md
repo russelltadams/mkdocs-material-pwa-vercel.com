@@ -5,6 +5,10 @@ An MkDocs-Material project with a PWA, ready for deployment with ZEIT Now
 
 Read [here](https://github.com/russelltadams/mkdocs-material-pwa-zeit.co/blob/master/docs/index.md) for some background what this is and why you might want to do it if you are not already familiar with the parts of this little stack.
 
+### Demo?
+
+[https://mkdocs-material-pwa-zeitco.russelltadams.now.sh/](https://mkdocs-material-pwa-zeitco.russelltadams.now.sh/)  
+
 ## Setup
 
 Fork this repo, or in some other manner copy the contents into a repo of your own. I like to use virtualenv (virtual python environments) on my laptop, I recommended it. If you have a system with the virtualenv tools setup on your system simply follow the commands. If not improvise or use some other form of development environment separation to keep your python environment sane.
