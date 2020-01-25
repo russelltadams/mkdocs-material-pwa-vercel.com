@@ -49,10 +49,19 @@ Not bad.
 
 Signup, then connect your Zeit account to your Github account following the instructions. Create a new project in Zeit pointing it at your copy of this repo in your Github account. Now, by default your `master` branch in Github will be considered production, but commits to other branches like `develop` will be pulled and built. Zeit will provide a nice <mythings>.sh.co url to see the output of your deployment build. There is also a very handy `build` and `runtime` logs available to look for errors is the build. There is also a `source` and `output` view which is super awesome for understanding what the actual output was if the build succeeds but the "app" or "site" that was built shows you something unexpected.
 
-### Next steps
+### Next steps for Zeit fanciness
 
 Setup a custom domain(s) attached to the desired branch(es). You will need to point your domain registrar towards Zeit DNS servers. Zeit will give you a list of DNS servers after you submit your domain in the project. 
 
 ## Test the PWA
 
-coming soon.  
+coming soon. 
+
+## To-Do
+
+* Add some `Hipster Ipsum` to the demo content to show off the power of the material theme, or make the pages long enough that the TOC comes into play  
+* Add some kind of notification or link to let the user know you can install the PWA. Chrome has a notification if you notice it, but I am not sure how other browser handle this if at all  
+* Play witht the `now` stuff that Zeit provides  
+* Change theme colors perhaps so they aren't the Material default  
+
+ 
