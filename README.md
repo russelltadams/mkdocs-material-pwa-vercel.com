@@ -1,8 +1,10 @@
 # mkdocs-material-pwa-zeit.co
 An MkDocs-Material project with a PWA, ready for deployment with ZEIT Now  
 
-[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co.svg?branch=master)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co)  
-[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co.svg?branch=develop)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co)  
+## Build Status
+
+[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co.svg?branch=master)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co) - Master branch  
+[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co.svg?branch=develop)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co) - Develop branch  
 
 ## What's the point?
 
