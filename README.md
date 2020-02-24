@@ -3,8 +3,10 @@ An MkDocs-Material project with a PWA, ready for deployment with ZEIT Now
 
 ## Build Status
 
-[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co.svg?branch=master)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co) - Master branch  
-[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co.svg?branch=develop)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co) - Develop branch  
+[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co.svg?branch=master)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co) ![.github/workflows/link-checker.yml](https://github.com/russelltadams/mkdocs-material-pwa-zeit.co/workflows/.github/workflows/link-checker.yml/badge.svg) - Master branch  
+[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co.svg?branch=develop)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-zeit.co) ![.github/workflows/link-checker.yml](https://github.com/russelltadams/mkdocs-material-pwa-zeit.co/workflows/.github/workflows/link-checker.yml/badge.svg?branch=develop) - Develop branch  
+
+
 
 ## What's the point?
 
