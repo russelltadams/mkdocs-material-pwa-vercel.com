@@ -40,7 +40,7 @@ Now while the server is running, and you have the home page open in the browser,
 
 ## Zeit.co serverless hosting and Github integration
 
-Get an account on [Zeit.co](Zeit.co).  It's free, they currently do not ask for any CC information to get signed up, and the free account allows plenty of room for developing multiple apps, and even running them in production at small scales.
+Get an account on [Zeit.co](https://zeit.co).  It's free, they currently do not ask for any CC information to get signed up, and the free account allows plenty of room for developing multiple apps, and even running them in production at small scales.
 
 ### Zeit Github Integration
 
