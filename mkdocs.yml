@@ -9,7 +9,7 @@ site_author: russell.t.adams@gmail.com
 
 # Github repo links, replace this with your repo and url
 repo_name: '/russelltadams/mkdocs-material-pwa-zeit.co'
-repo_url: 'https://github.com/russelltadams/mkdocs-material-pwa-zeit.co'
+repo_url: https://github.com/russelltadams/mkdocs-material-pwa-zeit.co
 
 # Navigation example, with optional tabs heiarchy turn on
 nav:
@@ -48,7 +48,7 @@ extra:
   manifest: 'manifest.json'
   social:
     - type: 'github'
-      link: 'https://github.com/russelltadams'
+      link: https://github.com/russelltadams
 
 # Bits to register the service worker      
 extra_javascript:
