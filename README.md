@@ -28,7 +28,10 @@ This assumes you have forked, or copied `mkdocs-material-pwa-zeit.co` to your ow
 
 ### Local Development
 
+The recent latest versions of Mkdocs have moved beyond python 2.x, and now require Python 3.5 and beyond. Python 3.8.x works fine.  
+
 ```shell
+  mkvirtualenv --python=`which python3` mkdocs
   mkvirtualenv mkdocs
   workon mkdocs
   pip install -r requirements.txt
