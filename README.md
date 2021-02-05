@@ -3,8 +3,8 @@ An MkDocs-Material project with a PWA, ready for deployment to Vercel
 
 ## Build Status
 
-[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-vercel.com .svg?branch=master)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-vercel.com ) ![.github/workflows/link-checker.yml](https://github.com/russelltadams/mkdocs-material-pwa-vercel.com /workflows/.github/workflows/link-checker.yml/badge.svg) - Master branch  
-[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-vercel.com .svg?branch=develop)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-vercel.com ) ![.github/workflows/link-checker.yml](https://github.com/russelltadams/mkdocs-material-pwa-vercel.com /workflows/.github/workflows/link-checker.yml/badge.svg?branch=develop) - Develop branch  
+[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-vercel.com.svg?branch=master)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-vercel.com ) ![.github/workflows/link-checker.yml](https://github.com/russelltadams/mkdocs-material-pwa-vercel.com/workflows/.github/workflows/link-checker.yml/badge.svg) - Master branch  
+[![Build Status](https://travis-ci.org/russelltadams/mkdocs-material-pwa-vercel.com.svg?branch=develop)](https://travis-ci.org/russelltadams/mkdocs-material-pwa-vercel.com ) ![.github/workflows/link-checker.yml](https://github.com/russelltadams/mkdocs-material-pwa-vercel.com/workflows/.github/workflows/link-checker.yml/badge.svg?branch=develop) - Develop branch  
 
 
 
