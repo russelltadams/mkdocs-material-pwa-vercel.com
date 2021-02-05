@@ -71,8 +71,6 @@ That will give the basic validation. DevTools can show you much more if you dig 
 * Explain the PWA bits (manifest, service worker, and supporting bits)
 * Add some `Hipster Ipsum` to the demo content to show off the power of the material theme, or make the pages long enough that the TOC comes into play  
 * Add some kind of notification or link to let the user know you can install the PWA. Chrome has a notification if you notice it, but I am not sure how other browser handle this if at all  
-* Play with the `now` stuff that Vercel provides  
-* Change theme colors perhaps so they aren't the Material default
 
 ## Contribute?
 
