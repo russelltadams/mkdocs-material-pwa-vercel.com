@@ -10,7 +10,7 @@ An MkDocs-Material project with a PWA, ready for deployment to Vercel
 
 ## What's the point?
 
-Read [here](https://github.com/russelltadams/mkdocs-material-pwa-vercel.com /blob/master/docs/index.md) for some background what this is and why you might want to do it if you are not already familiar with the parts of this little stack.
+Read [here](https://github.com/russelltadams/mkdocs-material-pwa-vercel.com/blob/master/docs/index.md) for some background what this is and why you might want to do it if you are not already familiar with the parts of this little stack.
 
 * Mkdocs - Markdown to static html [http://mkdocs.org](http://mkdocs.org)
 * Material theme for MkDocs - [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)
